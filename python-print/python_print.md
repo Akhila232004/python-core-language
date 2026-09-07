@@ -1,5 +1,5 @@
-![Python Tinitiate Image](../../python_tinitiate.png)
-
+﻿![Python Tinitiate Image](https://github.com/Akhila232004/python/blob/main/python_tinitiate.png)
+ 
 # Python Tutorial
 &copy; TINITIATE.COM
 
