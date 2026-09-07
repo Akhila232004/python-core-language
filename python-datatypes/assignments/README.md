@@ -62,6 +62,3 @@ This section contains 50 programming assignments based on Python Datatypes.
 
 ***
 
-| Copyright TINITIATE.COM |
-|-------------------------|
-"@ | Set-Content .\python-datatypes\assignments\README.md -Encoding UTF8
