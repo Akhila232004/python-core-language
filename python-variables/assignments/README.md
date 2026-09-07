@@ -58,5 +58,3 @@ Copyright TINITIATE.COM
 
 ***
 
-| Copyright TINITIATE.COM |
-|------------------------|
