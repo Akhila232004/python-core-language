@@ -4,8 +4,6 @@
 # Python Tutorial
 &copy; TINITIATE.COM
 
-##### [Back To Contents](../../README.md)
-
 # Python Datatypes Assignments
 
 This section contains 50 programming assignments based on Python Datatypes.
