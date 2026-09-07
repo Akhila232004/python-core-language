@@ -1,7 +1,8 @@
+@"
 ![Python Tinitiate Image](https://github.com/Akhila232004/python/blob/main/python_tinitiate.png)
 
 # Python Tutorial
-&copy;  TINITIATE.COM
+Copyright TINITIATE.COM
 
 ##### [Back To Contents](../../README.md)
 
@@ -65,3 +66,4 @@ This section contains 50 programming assignments based on Python Datatypes.
 
 | Copyright TINITIATE.COM |
 |-------------------------|
+"@ | Set-Content .\python-datatypes\assignments\README.md -Encoding UTF8
