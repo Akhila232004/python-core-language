@@ -3,7 +3,7 @@
 # Python Tutorial
 &copy; TINITIATE.COM
 
-##### [Back To Contents](../../README.md)
+##### [Back To Contents](https://github.com/Akhila232004/python/blob/main/README.md)
 
 # Python Lists
 * In Python, a list is a versatile data structure used to store ordered collection of items. Each item in a list is called an element, and these elements can be of different data types, including numbers, strings, or even other lists.
@@ -314,7 +314,7 @@ print(squared_numbers)
 * Lists are fundamental data structures in Python that allow you to store, access, and manipulate collections of items.
 * Their versatility and rich set of methods make them essential for various programming tasks, from data storage to transformation and analysis.
 
-##### [Back To Contents](../../README.md)
+##### [Back To Contents](https://github.com/Akhila232004/python/blob/main/README.md)
 ***
 | &copy; TINITIATE.COM |
 |----------------------|
