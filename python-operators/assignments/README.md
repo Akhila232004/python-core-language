@@ -9,7 +9,8 @@
 
 This section contains 50 programming assignments based on Python Operators.
 
-## CONTENTS* ### [Assignment 01](assignment-01.md)
+## CONTENTS
+* ### [Assignment 01](assignment-01.md)
 * ### [Assignment 02](assignment-02.md)
 * ### [Assignment 03](assignment-03.md)
 * ### [Assignment 04](assignment-04.md)
