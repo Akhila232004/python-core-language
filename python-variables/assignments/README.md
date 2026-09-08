@@ -1,7 +1,7 @@
 ﻿![Python Tinitiate Image](https://github.com/Akhila232004/python/blob/main/python_tinitiate.png)
 
 # Python Tutorial
-Copyright TINITIATE.COM
+&copy; TINITIATE.COM
 
 ## CONTENTS
 
@@ -57,4 +57,4 @@ Copyright TINITIATE.COM
 * ### [Assignment 50 - Python Variables](assignment-50.md)
 
 ***
-
+&copy; TINITIATE.COM
