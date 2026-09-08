@@ -2,7 +2,7 @@
  
 # Python Tutorial
 &copy; TINITIATE.COM
-##### [Back To Contents](../../README.md)
+##### [Back To Contents](https://github.com/Akhila232004/python/blob/main/README.md)
 
 # Conversions Between List, Tuples and Dictionaries
 * Converting between lists, tuples and dictionaries is a common operation in Python and can be done using various methods.
@@ -159,4 +159,6 @@ print(tuple_of_lists)
 * Conversions between dictionaries, tuples, and lists in Python involves using various methods and techniques.
 * This flexibility allows you to manipulate your data structures as needed in your programs.
 
-##### [Back To Contents](../../README.md)
+##### [Back To Contents](https://github.com/Akhila232004/python/blob/main/README.md)
+
+
