@@ -3,9 +3,6 @@
 
 # Python Tutorial
 &copy; TINITIATE.COM
-
-##### [Back To Contents](../../README.md)
-
 # Python Print Assignments
 
 This section contains 50 programming assignments based on Python Print.
