@@ -3,7 +3,7 @@
 # Python Tutorial
 &copy; TINITIATE.COM
 
-##### [Back To Contents](../../README.md)
+##### [Back To Contents](https://github.com/Akhila232004/python/blob/main/README.md)
 
 # Python Strings
 * Strings in Python are sequences of characters, and they are one of the fundamental data types used to represent and manipulate textual data.
