@@ -3,7 +3,7 @@
 # Python Tutorial
 &copy; TINITIATE.COM
 
-##### [Back To Contents](../../README.md)
+##### [Back To Contents](https://github.com/Akhila232004/python/blob/main/README.md)
 
 # Python Dictionaries
 * Dictionaries in Python are unordered collections of key-value pairs.
@@ -166,7 +166,7 @@ print(numbers_dict)
 * Dictionaries provide a flexible and efficient way to store and manipulate data using key-value pairs.
 * Note that dictionaries are unordered, which means the order of key-value pairs might not be preserved. Starting from Python 3.7, the insertion order is preserved by default.
 
-##### [Back To Contents](../../README.md)
+##### [Back To Contents](https://github.com/Akhila232004/python/blob/main/README.md)
 ***
 | &copy; TINITIATE.COM |
 |----------------------|
