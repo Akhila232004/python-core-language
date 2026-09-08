@@ -3,7 +3,7 @@
 # Python Tutorial
 &copy; TINITIATE.COM
 
-##### [Back To Contents](../../README.md)
+##### [Back To Contents](https://github.com/Akhila232004/python/blob/main/README.md)
 
 # Python Tuples
 * Tuples in Python are ordered collections of elements, similar to lists, but unlike lists, tuples are immutable, meaning their elements cannot be changed after the tuple is created.
@@ -226,7 +226,7 @@ print(coordinates[1, 2])
 * Tuples provide a lightweight and immutable way to store related data, and they are widely used in Python programming.
 * Remember, while tuples are immutable, the objects they contain might be mutable. This means that if a tuple contains mutable objects like lists, those objects can still be modified.
 
-##### [Back To Contents](../../README.md)
+##### [Back To Contents](https://github.com/Akhila232004/python/blob/main/README.md)
 ***
 | &copy; TINITIATE.COM |
 |----------------------|
