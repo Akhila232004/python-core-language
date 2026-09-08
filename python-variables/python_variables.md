@@ -81,7 +81,7 @@ print("var200 : ", var200)
 * Python variable names are case-sensitive.
 * Variable names cannot be Python keywords.
 
-##### [Back To Contents](../../README.md)
+##### [Back To Contents](https://github.com/Akhila232004/python/blob/main/README.md)
 ***
 | &copy; TINITIATE.COM |
 |----------------------|
