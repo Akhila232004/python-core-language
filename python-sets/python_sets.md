@@ -3,7 +3,7 @@
 # Python Tutorial
 &copy; TINITIATE.COM
 
-##### [Back To Contents](../../README.md)
+##### [Back To Contents](https://github.com/Akhila232004/python/blob/main/README.md)
 
 # Python Sets
 * Sets in Python are unordered collections of unique elements(no duplicate entries).
@@ -139,7 +139,7 @@ print(frozen_set)
 * They are useful for tasks involving distinct values, membership testing, and performing set-based calculations.
 * Understanding sets can greatly enhance your ability to work with unique collections of data in Python.
 
-##### [Back To Contents](../../README.md)
+##### [Back To Contents](https://github.com/Akhila232004/python/blob/main/README.md)
 ***
 | &copy; TINITIATE.COM |
 |----------------------|
