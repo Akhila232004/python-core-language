@@ -62,3 +62,5 @@ This section contains 50 programming assignments based on Python Datatypes.
 
 ***
 ##### [Back To Contents](https://github.com/Akhila232004/python/blob/main/README.md)
+| &copy; TINITIATE.COM |
+|----------------------|
