@@ -160,5 +160,6 @@ print(tuple_of_lists)
 * This flexibility allows you to manipulate your data structures as needed in your programs.
 
 ##### [Back To Contents](https://github.com/Akhila232004/python/blob/main/README.md)
+| &copy; TINITIATE.COM |
 
 
