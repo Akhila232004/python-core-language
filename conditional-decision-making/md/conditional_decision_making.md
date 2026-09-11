@@ -37,8 +37,8 @@ else:
 # OUTPUT: x is not greater than 5
 
 
-
 # Example 2:
+
 A = 100
 B = 100
 C = 200
@@ -124,6 +124,7 @@ else:
 ```python
 # Short-Hand if/Conditional Expression/Ternary Operator
 # Example 1:
+
 x = 10
 result = "Even" if x % 2 == 0 else "Odd"
 print(result)  
