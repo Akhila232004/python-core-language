@@ -108,6 +108,7 @@ print("Outside function:", x)
 
 
 # Example 2:
+
 MyVar = 'This is a Global Value'
 def myFunction():
     # Local Variable
@@ -166,13 +167,12 @@ greet(greeting="Hello", name="Bob")
 * If a value is not provided for a default argument during the function call, the default value is used.
 ```python
 # Example 1:
+
 def greet(name, greeting="Hello"):
     print(greeting, name)
 
 greet("Charlie")  # Default argument: "Hello" is assigned to greeting
 # OUTPUT: Hello Charlie
-
-
 
 # Example 2:
 def power(base, exponent=2):
@@ -183,7 +183,6 @@ power(3)      # Uses default exponent (2)
 power(2, 4)   # Overrides default exponent
 # OUTPUT: 3 raised to the power of 2 is 9
 #         2 raised to the power of 4 is 16
-
 
 
 # Example 3:
@@ -256,6 +255,7 @@ print(one_fixed_and_arbitrary_length_argument(1, 2, 3, 5, 6))
 # in this case ONE fixed and FOUR variable length
 print(one_fixed_and_arbitrary_length_argument
 (1, 'a1', 'a2', 'a3', 'a4', 'a5', 'a6'))
+
 # OUTPUT: Value of the first argument:  1
 #         Arbitrary Argument number:  1  value:  2
 #         Arbitrary Argument number:  2  value:  3
@@ -344,7 +344,6 @@ function_with_constructs("Python", 20)
 #    20 is even.
 
 
-
 # Example 2:
 def print_even_numbers(numbers):
     """
@@ -391,6 +390,7 @@ print(return_sum(1, 2))
 
 
 # Example 2:
+
 def calculate_average(numbers):
     """
     Calculate the average of numbers in a list.
@@ -442,8 +442,8 @@ print(extract_list_into_strings_and_numbers(['1','A', '2', '3','B', 'c']))
 # OUTPUT:
 #        ['1', '2', '3']
 #        ['A', 'B', 'c']
-#        None   
-# In Python, when a function doesn’t have a return statement,
+#        None
+# In Python, when a function doesn’t have a return statement, 
 # it implicitly returns `None`
 
 
@@ -523,7 +523,7 @@ def reverse_tuple(input_tuple):
 my_tuple = (1, 2, 3, 4, 5)
 reversed_result = reverse_tuple(my_tuple)
 print("Reversed tuple:", reversed_result)
-# OUTPUT: Reversed tuple: (5, 4, 3, 2, 1)
+# Output: Reversed tuple: (5, 4, 3, 2, 1)
 ```
 ### Functions with a DICTIONARY input parameter
 * Calling a function that accepts a DICTIONARY as input parameter.
@@ -572,7 +572,7 @@ data = {
 }
 averages = calculate_average_values(data)
 print("Average values:", averages)
-# OUTPUT: Average values: {'A': 20.0, 'B': 25.0, 'C': 30.0}
+# Output: Average values: {'A': 20.0, 'B': 25.0, 'C': 30.0}
 ```
 
 ## Functions Arguments Passing
@@ -648,6 +648,7 @@ print(data)
 * Instead, a new object is created inside the function.
 ```python
 # Example 1:
+
 def modify_number(num):
     num = num + 1  # Modifying the number inside the function
     print(num)
@@ -689,16 +690,17 @@ print('After passing by value to function, source_list: ', source_list_2)
 def modify_tuple(t):
     t = (4, 5, 6)
     print(t)
-# OUTPUT: (4, 5, 6)
 
 my_tuple = (1, 2, 3)
 modify_tuple(my_tuple)
-print(my_tuple)
-# OUTPUT: (1, 2, 3)
+print(my_tuple)  
+# OUTPUT: (4, 5, 6)
+#         (1, 2, 3)
 
 
 
 # Example 4:
+
 def modify_string(s):
     s = s.upper()
     print(s)
