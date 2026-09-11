@@ -12,6 +12,7 @@
 ## Creating Lists
 * Lists can be created by enclosing elements within square brackets `[]`, separated by commas.
 ```python
+
 MyNumbersList = [1, 100, 9, 99]
 
 MyStringList  = ["A", 'b', 'Hello', "This"]
@@ -90,6 +91,7 @@ print(nested_list[2][1])    # Output: 6
 ## List Slicing
 * Similar to strings, you can extract a sublist(portion of list) from a list using slicing.
 ```python
+
 my_list = ["apple", "banana", "cherry", "date"]
 
 # Sublist from index 1 upto 3 (not including 3)
