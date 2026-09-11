@@ -147,6 +147,7 @@ print(not(x < y))       # Output: False
     * Left shift: `<<`
     * Right shift: `>>`
 ```python
+
 a = 10
 b = 4
 
@@ -192,10 +193,11 @@ print(x is not y) # Output: True
     * `in`: Returns True if a sequence with the specified value is present in the object.
     * `not in`: Returns True if a sequence with the specified value is not present in the object.
 ```python
+
 my_list = [1, 2, 3, 4, 5]
 
 # in
-print(3 in my_list)     # Output: True
+print(3 in my_list)   # Output: True
 
 # not in
 print(6 not in my_list) # Output: True
