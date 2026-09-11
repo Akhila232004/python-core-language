@@ -11,6 +11,7 @@
 ## List to Tuple
 * You can convert a list to a tuple using the `tuple()` constructor.
 ```python
+
 my_list = ['John', 30, 'Male']
 print(my_list)
 # OUTPUT: ['John', 30, 'Male']
@@ -23,6 +24,7 @@ print(my_tuple)
 ## List to Dictionary
 * You can convert a list to a dictionary where each consecutive pair of elements in the list forms a key-value pair.
 ```python
+
 my_list = ['name', 'John', 'age', 30, 'gender', 'Male']
 print(my_list)
 # OUTPUT: ['name', 'John', 'age', 30, 'gender', 'Male']
@@ -73,6 +75,7 @@ print(my_list)
 ## Tuple of Tuples to Dictionary
 * You can convert tuple of tuples to dictionary using `dict()` constructor.
 ```python
+
 tuple1 = (('a', 1),('b', 2))
 print(tuple1)
 # OUTPUT: (('a', 1), ('b', 2))
