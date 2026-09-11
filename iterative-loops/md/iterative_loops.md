@@ -13,7 +13,7 @@
 ## `for` Loop
 * The `for` loop in Python is used to iterate over a sequence (such as a list, tuple, string, or range) and execute a block of code for each item in the sequence.
 ```python
-# Simple `for` Loop
+# Simple `for` loop
 fruits = ["apple", "banana", "cherry"]
 
 for fruit in fruits:
@@ -21,7 +21,6 @@ for fruit in fruits:
 # OUTPUT: apple
 #         banana
 #         cherry
-
 
 
 # LOOP Over the number of characters in a sting
@@ -75,8 +74,6 @@ while i < 5:
 #         3
 #         4
 
-
-
 # Example 2:
 curr_value = 0   
 while (curr_value <= 5):
@@ -89,15 +86,13 @@ while (curr_value <= 5):
 #         Curr_value:  4
 #         Curr_value:  5
 
-
-
 # INFINITE LOOP issue
 # Great care should be taken when writing loops as it could 
 # iterate perpetually or run in an infinite loop
 # while some situations require to run forever like services
 # CODE
-#  while(1==1):
-#      print("in infinite loop")
+# while(1==1):
+#     print("in infinite loop")
 # To stop, Close the application if nothing responds
 ```
 
@@ -120,8 +115,6 @@ for ad in adj:
 #         tasty apple
 #         tasty banana
 #         tasty cherry
-
-
 
 # Example 2:
 # Nested Loops, loop inside loop using range() function
@@ -168,10 +161,7 @@ for i in range(5):
 #         3
 #         4
 
-
-
 # Example 2:
-# LOOP 5 times with printing index
 for c in range(5):
     print('Loop Count: ',c)
 # OUTPUT: Loop Count:  0
@@ -197,6 +187,7 @@ for fruit in fruits:
     print(fruit)
 # OUTPUT: apple
 
+# break
 # while loop
 cur_value = 0                  
 while (cur_value < 5):
@@ -206,8 +197,6 @@ while (cur_value < 5):
     print('Cur_value: ', cur_value)
 # OUTPUT: Cur_value:  1
 #         Cur_value:  2
-
-
 
 # continue
 # Example 1:
@@ -234,7 +223,6 @@ for c in range(3):
 #         Run: 2 step1
 #         Run: 2 step2
 #         Run: 2 step3
-
 
 
 # pass
@@ -274,20 +262,21 @@ for value in my_dict.values():
 
 for key, value in my_dict.items():
     print(key, value)
-# OUTPUT:name
-#        age
-#        gender
-#        John
-#        30
-#        Male
-#        name John
-#        age 30
-#        gender Male
+# OUTPUT: name
+#         age
+#         gender
+#         John
+#         30
+#         Male
+#         name John
+#         age 30
+#         gender Male
 ```
 
 ## Looping Through Index
 * To iterate through both the elements and their indices in a sequence, you can use the `enumerate()` function.
 ```python
+
 fruits = ["apple", "banana", "orange"]
 
 for index, fruit in enumerate(fruits):
