@@ -156,10 +156,11 @@ print(my_dict)
 ## Dictionary Comprehensions
 * Dictionary comprehensions provide a concise way to create dictionaries based on existing dictionaries.
 ```python
+
 numbers = {1, 2, 3, 4, 5}
 numbers_dict = {x: x ** 2 for x in numbers}  
-# OUTPUT: {1: 1, 2: 4, 3: 9, 4: 16, 5: 25}
 print(numbers_dict)
+# Output: {1: 1, 2: 4, 3: 9, 4: 16, 5: 25}
 ```
 
 ## Conclusion
