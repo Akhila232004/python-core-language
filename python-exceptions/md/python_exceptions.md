@@ -59,10 +59,7 @@ try:
 except ZeroDivisionError:
     # Code to handle the exception
     print("Error: Division by zero")
-
-# OUTPUT:ERROR!
-#        Error: Division by zero
-
+# OUTPUT: Error: Division by zero
 
 
 # Example 2:
@@ -71,7 +68,6 @@ try:
 except TypeError:
     print("Error: Unsupported operand type(s) for /: 'str' and 'int'")
 # OUTPUT: Error: Unsupported operand type(s) for /: 'str' and 'int'
-
 
 
 # Example 3:
@@ -85,6 +81,7 @@ except IndexError:
 
 
 # Example 4:
+
 try:
     my_dict = {"a": 1, "b": 2}
     value = my_dict["c"]
@@ -160,6 +157,7 @@ except ZeroDivisionError:
 except Exception as e:
     print("An error occurred:", e)
 # INPUT 1: a
+# INPUT 2: 1 
 # OUTPUT : Error: Please enter valid integers
 
 # INPUT 1: 1
@@ -253,6 +251,7 @@ finally:
 ## Raising Exceptions
 * You can `raise` exceptions manually using the raise statement to indicate exceptional conditions in your code.
 ```python
+
 x = -5
 if x < 0:
     raise ValueError("x cannot be negative")
@@ -264,6 +263,7 @@ if x < 0:
 * This is useful when you want to raise exceptions specific to your program's logic.
 ```python
 # Example 1:
+
 class CustomError(Exception):
     pass        # Placeholder for class implementation
 
@@ -282,9 +282,8 @@ except tinitiate_exception:
     print("This is a user defined exception !")
 # OUTPUT: This is a user defined exception !
 
-
-
 # Example 3:
+
 try:
     a=1/0
 except:
@@ -319,8 +318,6 @@ except CustomError as ce:
 # OUTPUT: No data provided!
 
 
-
-# Example 6:
 class InsufficientFundsError(Exception):
     pass
 
@@ -341,7 +338,6 @@ try:
 except InsufficientFundsError as e:
     print("Error:", e)
 # OUTPUT: Error: 
-
 
 
 # Example 7:
@@ -370,7 +366,6 @@ except CustomError as e:
     print("Error code:", e.code)
 # OUTPUT: Custom error: An error occurred
 #         Error code: 500
-
 
 
 # Example 9:
