@@ -1,5 +1,5 @@
 # ==============================================================================
-#  Organization : TINITIATE TECHNOLOGIES PVT LTD
+#  Organization : TINITIATEAI SOLUTIONS PVT LTD
 #  Website      : tinitiate.com
 #  Script Title : Python Tutorial
 #  Description  : `if` Statement
